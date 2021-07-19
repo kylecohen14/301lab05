@@ -79,7 +79,7 @@ body {
   line-height: 1.5;
   color: #525f7f;
   text-align: left;
-  background-color: #fff; }
+  background-color: rgb(175, 40, 40); }
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
@@ -419,7 +419,7 @@ mark,
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #fff;
+  background-color: rgb(170, 53, 53);
   border: 0.0625rem solid #dee2e6;
   border-radius: 0.25rem;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.075);
@@ -448,7 +448,7 @@ kbd {
   padding: 0.2rem 0.4rem;
   font-size: 87.5%;
   color: #fff;
-  background-color: #212529;
+  background-color: #293b4e;
   border-radius: 0.2rem;
   box-shadow: inset 0 -0.1rem 0 rgba(0, 0, 0, 0.25); }
   kbd kbd {
@@ -1170,7 +1170,7 @@ pre {
 .table-warning,
 .table-warning > th,
 .table-warning > td {
-  background-color: #fed3ca; }
+  background-color: #64cc5b; }
 
 .table-warning th,
 .table-warning td,
@@ -1179,7 +1179,7 @@ pre {
   border-color: #fdae9c; }
 
 .table-hover .table-warning:hover {
-  background-color: #febeb1; }
+  background-color: #6ea549; }
   .table-hover .table-warning:hover > td,
   .table-hover .table-warning:hover > th {
     background-color: #febeb1; }
@@ -1187,7 +1187,7 @@ pre {
 .table-danger,
 .table-danger > th,
 .table-danger > td {
-  background-color: #fcc7d1; }
+  background-color: #9b384a; }
 
 .table-danger th,
 .table-danger td,
@@ -1199,7 +1199,7 @@ pre {
   background-color: #fbafbd; }
   .table-hover .table-danger:hover > td,
   .table-hover .table-danger:hover > th {
-    background-color: #fbafbd; }
+    background-color: #ca4d64; }
 
 .table-light,
 .table-light > th,

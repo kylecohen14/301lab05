@@ -38,7 +38,7 @@ import {
   Col,
   UncontrolledTooltip
 } from "reactstrap";
-import reactWhite from "assets/img/brand/argon-react-white.png";
+import reactWhite from "/mnt/c/Users/kylec/projects/codefellows/code301/lab_assignments/301lab05/src/assets/img/brand/fuji.png";
 import argonReact from "assets/img/brand/argon-react.png";
 
 class DemoNavbar extends React.Component {
